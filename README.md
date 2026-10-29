@@ -1,53 +1,70 @@
+<div align="center">
+
 # httpSMS
 
-[![Web](https://github.com/NdoleStudio/httpsms/actions/workflows/web.yml/badge.svg)](https://github.com/NdoleStudio/httpsms/actions/workflows/web.yml)
-[![API](https://github.com/NdoleStudio/httpsms/actions/workflows/api.yml/badge.svg)](https://github.com/NdoleStudio/httpsms/actions/workflows/api.yml)
-[![GitHub contributors](https://img.shields.io/github/contributors/NdoleStudio/httpsms)](https://github.com/NdoleStudio/httpsms/graphs/contributors)
-[![GitHub license](https://img.shields.io/github/license/NdoleStudio/httpsms?color=brightgreen)](https://github.com/NdoleStudio/httpsms/blob/master/LICENSE)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/NdoleStudio/httpsms/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/NdoleStudio/httpsms/?branch=main)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/ldl5.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
-[![Sponsors](https://img.shields.io/github/sponsors/ndolestudio?logo=github)](https://github.com/sponsors/ndolestudio)
-[![Discord](https://img.shields.io/discord/1095778291488653372?label=Discord)](https://discord.gg/kGk8HVqeEZ)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Send+%2B+Receive+SMS+via+Android;Programmatic+SMS+API;Simple+HTTP+Integration;Open+source+messaging+bridge" alt="Typing SVG" />
 
-[httpSMS](https://httpsms.com) is a service that lets you use your Android phone as an SMS Gateway to send and receive SMS messages.
-You make a request to a simple HTTP API and it triggers your Android phone to send an SMS. SMS messages received on your android phone can also be forwarded to your webhook endpoint.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=0ea5e9&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/httpsms?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/httpsms?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/httpsms?style=for-the-badge&color=64748b" alt="License" />
+</p>
 
-Quick Start Guide 👉 [https://docs.httpsms.com](https://docs.httpsms.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=go,android" alt="Skill icons" />
+</p>
 
-<img width="1115" alt="header" src="https://user-images.githubusercontent.com/4196457/194767449-f12d84a0-22f1-4787-afb2-17398fb459f6.png">
+<p>
+  <strong>Send and receive SMS messages using your Android phone programmatically via a simple HTTP API.</strong>
+</p>
 
-## Table Of Contents
+</div>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+---
 
-- [Why?](#why)
-- [Web UI](#web-ui)
-- [API](#api)
-- [Android App](#android-app)
-- [Chat/forum](#chatforum)
-- [Features](#features)
-  - [End-to-end Encryption](#end-to-end-encryption)
-  - [Webhook](#webhook)
-  - [Back Pressure](#back-pressure)
-  - [Message Expiration](#message-expiration)
-- [API Clients](#api-clients)
-- [Flows](#flows)
-  - [Sending an SMS Message](#sending-an-sms-message)
-- [Self Host Setup - Docker](#self-host-setup---docker)
-  - [1. Setup Firebase](#1-setup-firebase)
-  - [2. Setup SMTP Email service](#2-setup-smtp-email-service)
-  - [3. Setup Cloudflare Turnstile](#3-setup-cloudflare-turnstile)
-  - [4. Download the code](#4-download-the-code)
-  - [5. Setup the environment variables](#5-setup-the-environment-variables)
-  - [6. Build and Run](#6-build-and-run)
-  - [7. Create the System User](#7-create-the-system-user)
-  - [8. Build the Android App.](#8-build-the-android-app)
-- [Integration Testing](#integration-testing)
-- [License](#license)
+## Trophy Cards
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
+
+---
+
+## Stats Cards
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`SMS API` `Android SMS` `httpSMS` `Go`
+
+---
 
 ## Why?
 
